@@ -15,7 +15,8 @@ These are a few links that point to resources regarding MARC files and editing X
 
 - [Wonderfully dated MARC overview through Libraries Linking Idaho](http://lili.org/forlibs/ce/able/course8/04marchistory.htm)
 - [MARC reference guide](http://www.loc.gov/marc/bibliographic/)
-- [Owen Stephens' posts on converting between MarcEdit and OpenRefine](http://www.meanboyfriend.com/overdue_ideas/2015/07/worked-example-fixing-marc-data-1/)
+- [OpenRefine Tutorials & Docs](https://github.com/OpenRefine/OpenRefine/wiki)
+- [Owen Stephens' posts on converting between MarcEdit and OpenRefine](http://www.meanboyfriend.com/overdue_ideas/2015/07/worked-example-fixing-marc-data-1/)_included for completeness, no expectations that you be able to follow this tutorial unless interested_
 
 ### Software
 
