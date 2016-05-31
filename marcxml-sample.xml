@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <marc:record>
+        <marc:leader>02517cam a2200469 a 4500</marc:leader>
+        <marc:controlfield tag="001">991655</marc:controlfield>
+        <marc:controlfield tag="005">20141204150617.0</marc:controlfield>
+        <marc:controlfield tag="008">890628s1721    enk           00001 eng d</marc:controlfield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)ocm21932393</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)21932393</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(CStRLIN)PAUG89-B23464</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(CaOTULAS)185167192</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="9">AGR7993</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">991655</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">PU</marc:subfield>
+            <marc:subfield code="c">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="090" ind1=" " ind2=" ">
+            <marc:subfield code="a">PR3317</marc:subfield>
+            <marc:subfield code="b">.L7 1721</marc:subfield>
+            <marc:subfield code="i">06/28/89 CT</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Behn, Aphra,</marc:subfield>
+            <marc:subfield code="d">1640-1689.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Love-letters between a nobleman and his sister :</marc:subfield>
+            <marc:subfield code="b">with the history of their adventures. In three parts.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="0" ind2=" ">
+            <marc:subfield code="a">Love-letters between a nobleman and his sister; with the history of their adventures. In three parts.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Work</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="0" ind2=" ">
+            <marc:subfield code="a">Love-letters from a nobleman to his sister; mix'd with the history of their adventures. The second part.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="0" ind2=" ">
+            <marc:subfield code="a">The amours of Philander and Sylvia: being the third and last part of the love-letters between a nobleman and his sister.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="0" ind2="7">
+            <marc:subfield code="a">Love-Letters.</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="0" ind2="7">
+            <marc:subfield code="a">Love-Letters. (verso)</marc:subfield>
+            <marc:subfield code="a">Love-Letters. (recto)</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="250" ind1=" " ind2=" ">
+            <marc:subfield code="a">The sixth edition.</marc:subfield>
+            <marc:subfield code="b">Sixth edition</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">London</marc:subfield>
+            <marc:subfield code="b">Printed for D. Brown, J. Tonson, B. Tooke, G. Strahan, S. Ballard, W. Mears, and F. Clay.</marc:subfield>
+            <marc:subfield code="c">MDCCXXI.</marc:subfield>
+            <marc:subfield code="c">1721.</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">3 v. ;</marc:subfield>
+            <marc:subfield code="c">18 cm. (12mo)</marc:subfield>
+            <marc:subfield code="x">Duodecimo</marc:subfield>
+            <marc:subfield code="z">In three parts</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Title in double line border. Pts. 2 and 3 each has special title-page in double line border.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Parts 2 and 3 have titles &quot;Love-letters from a nobleman to his sister; mix'd with the history of their adventures. The second part&quot; and &quot;The amours of Philander and Silvia; being the third and last part of the Love-letters between a nobleman and his sister&quot; respectively.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Epistle dedicatory, pts. 2 and 3, signed: A.B.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Obstensibly a translation from the French. cf. Pref.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Marbled ochre and dark blue boards and brown leather spines, v.1-v.3.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Bookplate, v.1-v.3: "Library of the University of Pennsylvania -- The Godfrey F. Singer Memorial Presented by Mr. and Mrs. Jacob Singer"</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Library marginalia, v.1-v.3: verso TP, recto A2, verso last leaf of text, back free and paste-down endpapers.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Imaginary letters between Ford Grey, earl of Tankerville (Philander) and his sister-in-law, Lady Henrietta Berkeley (Sylvia), but in reality written by Aphra Behn. cf. S. Halkett and J. Laing. Dictionary of anonymous and pseudonymous English literature.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Part of the margin of the page ripped out, v.3, pp. 285-6; some tearing on pp. 289-90 that makes a portion of the text difficult to read.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="510" ind1="4" ind2=" ">
+            <marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+            <marc:subfield code="c">N11276</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Dedication</marc:subfield>
+            <marc:subfield code="b">To Thomas Condon, Esq;</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+            <marc:subfield code="x">"Sir, having, when I was at Paris last spring, met with a little book of letters, call'd L'intregue de Philander &amp; Sylvia, I had a particular fancy besides my inclinations to translate it into English, which I have done as faithfully as I could; only where he speaks of the ingratitude of Cesario to the King, I have added a word or two to his character, that might render it a little more parallel to that of a modern prince, in our age; for the rest I have kept close to the French."</marc:subfield>
+            <marc:subfield code="x">"I would fain think that in the character of Philander there is a great resemblance of your self [...] He was a French Whig, 'tis true, and a most apparent traitor, and there, I confess, the comparison fails extreamly; for sure no man was ever so incorrigible, so harden'd in Toryism as your self, so fearless, so bold, so resolute, and confirm'd in loyalty" (leaf A4).</marc:subfield>
+            <marc:subfield code="x">Has the running title of "The Epistle." Runs for 12 pages. Seems to offer backhanded praise of Condon and encourages him to stop being a "lazy lover."</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Preface</marc:subfield>
+            <marc:subfield code="b">The argument.</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+            <marc:subfield code="x">"In the time of the rebellion of the true Protestant Hugonots in Paris, under the conduct of the Prince of Conde (whom we will call Cesario) many illustrious persons were drawn into the association, amongst which there was one, whose quality and fortune (join'd with his youth and beauty) render'd him more elevated in the esteem of the gay part of the world than most of that age."</marc:subfield>
+            <marc:subfield code="x">In italicized font.</marc:subfield>
+            <marc:subfield code="x">Describes characters and plot and explains how the characters' letters came to be published.</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Dedication</marc:subfield>
+            <marc:subfield code="b">To Lemuel Kingdon, Esq;</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+            <marc:subfield code="x">"Sir, I beg you will give me leave to express my gratitude in some measure, for the favours I have received of you, and to make an acknowledgement where I cannot pay a debt."</marc:subfield>
+            <marc:subfield code="x">Has the running title of "The Epistle Dedicatory." Italicized font.</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Dedication</marc:subfield>
+            <marc:subfield code="b">To the Lord Spencer.</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+            <marc:subfield code="x">"My lord, when a new book comes into the world, the first thing we consider is the Dedication; and according to the quality and humour of the patron, we are apt to make a judgement of the following subject: if to a states-man, we believe it grave and politick; if a gown-man, law or divinity; if to the young and gay, love and gallantry."</marc:subfield>
+            <marc:subfield code="x">Has the running title of "The Epistle Dedicatory." Italicized font.</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="592" ind1=" " ind2="0">
+            <marc:subfield code="a">Epistolary</marc:subfield>
+            <marc:subfield code="b">Third-person</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="594" ind1=" " ind2="0">
+            <marc:subfield code="a">Anne Amsons Book.</marc:subfield>
+            <marc:subfield code="b">Ink</marc:subfield>
+            <marc:subfield code="x">Page opposite TP</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="595" ind1=" " ind2="0">
+            <marc:subfield code="a">Pencil</marc:subfield>
+            <marc:subfield code="b">Words</marc:subfield>
+            <marc:subfield code="b">Numbers</marc:subfield>
+            <marc:subfield code="x">Located on page opposite TP in v.2, above inscription. Transcription: "Penn 37 -- 3vols -- £3-3-0". Other volumes have very faded pencil markings in the same location.</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="595" ind1=" " ind2="0">
+            <marc:subfield code="a">Ink</marc:subfield>
+            <marc:subfield code="b">Reader markings</marc:subfield>
+            <marc:subfield code="x">What appears to be a line drawn in red ink in the margin of p. 429.</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="596" ind1=" " ind2="0">
+            <marc:subfield code="a">Translation</marc:subfield>
+            <marc:subfield code="b">Dedication</marc:subfield>
+            <marc:subfield code="c">French</marc:subfield>
+            <marc:subfield code="e">Having, when I was at Paris last spring, met with a little Book of Letters, call'd L'intregue de Philander &amp; Sylvia, I had a particular fancy besides my inclinations to translate it into English, which I have done as faithfully as I could;</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="599" ind1=" " ind2="0">
+            <marc:subfield code="a">Translator (text)</marc:subfield>
+            <marc:subfield code="b">Generic/Descriptive</marc:subfield>
+            <marc:subfield code="2">Having, when I was at Paris last spring, met with a little Book of Letters, call'd L'intregue de Philander &amp; Sylvia, I had a particular fancy besides my inclinations to translate it into English, which I have done as faithfully as I could.... Sir, Your obliged and most humble servant, &amp;c.</marc:subfield>
+            <marc:subfield code="3">Dedication</marc:subfield>
+            <marc:subfield code="5">Indeterminate</marc:subfield>
+            <marc:subfield code="7">Not actually a translated text, but an original by Aphra Behn</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="599" ind1=" " ind2="0">
+            <marc:subfield code="a">Author (paratext)</marc:subfield>
+            <marc:subfield code="b">Generic/Descriptive</marc:subfield>
+            <marc:subfield code="2">Sir, Your obliged and most humble servant, &amp;c.</marc:subfield>
+            <marc:subfield code="3">Dedication</marc:subfield>
+            <marc:subfield code="5">Indeterminate</marc:subfield>
+            <marc:subfield code="6">Female</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="599" ind1=" " ind2="0">
+            <marc:subfield code="a">Author (paratext)</marc:subfield>
+            <marc:subfield code="b">Initials</marc:subfield>
+            <marc:subfield code="b">Generic/Descriptive</marc:subfield>
+            <marc:subfield code="2">Sir, Your most obliged humble servant: A.B.</marc:subfield>
+            <marc:subfield code="3">Dedication</marc:subfield>
+            <marc:subfield code="5">Female</marc:subfield>
+            <marc:subfield code="6">Female</marc:subfield>
+            <marc:subfield code="7">Implicit gender claim: while addressing Lemuel Kingdon, refers to "your sex" (A3).</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="599" ind1=" " ind2="0">
+            <marc:subfield code="a">Author (paratext)</marc:subfield>
+            <marc:subfield code="b">Initials</marc:subfield>
+            <marc:subfield code="b">Generic/Descriptive</marc:subfield>
+            <marc:subfield code="2">My lord, your lordship's most humble and obedient servant, A.B.</marc:subfield>
+            <marc:subfield code="3">Dedication</marc:subfield>
+            <marc:subfield code="5">Indeterminate</marc:subfield>
+            <marc:subfield code="6">Female</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="599" ind1=" " ind2="0">
+            <marc:subfield code="a">Author (text)</marc:subfield>
+            <marc:subfield code="b">Proper name</marc:subfield>
+            <marc:subfield code="b">Generic/Descriptive</marc:subfield>
+            <marc:subfield code="2">Philander was taken prisoner, made his escape to a little cottage [...] writes to Sylvia to come to him, which she does [...] After their flight, these letters were found in their cabinets</marc:subfield>
+            <marc:subfield code="3">Preface</marc:subfield>
+            <marc:subfield code="5">Female</marc:subfield>
+            <marc:subfield code="7">Sylvia is ostensibly a pseudonym for Lady Henrietta Berkeley, but Aphra Behn is the real author of these fictional letters.</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="599" ind1=" " ind2="0">
+            <marc:subfield code="a">Author (text)</marc:subfield>
+            <marc:subfield code="b">Proper name</marc:subfield>
+            <marc:subfield code="b">Generic/Descriptive</marc:subfield>
+            <marc:subfield code="2">Philander was taken prisoner, made his escape to a little cottage [...] writes to Sylvia to come to him, which she does [...] After their flight, these letters were found in their cabinets</marc:subfield>
+            <marc:subfield code="3">Preface</marc:subfield>
+            <marc:subfield code="5">Male</marc:subfield>
+            <marc:subfield code="7">Philander is ostensibly a pseudonym for Ford Grey, earl of Tankerville, but Aphra Behn is the real author of these fictional letters.</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="0">
+            <marc:subfield code="a">Berkeley, Henrietta,</marc:subfield>
+            <marc:subfield code="c">lady,</marc:subfield>
+            <marc:subfield code="d">d. 1710.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="0">
+            <marc:subfield code="a">Tankerville, Forde Grey,</marc:subfield>
+            <marc:subfield code="c">Earl of,</marc:subfield>
+            <marc:subfield code="d">1655-1701.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="4">
+            <marc:subfield code="a">CHR 1721</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="4">
+            <marc:subfield code="a">PRO Amson, Anne (autograph)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="4">
+            <marc:subfield code="a">PRO Singer, Jacob (donor) (copies 1 &amp; 2)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="4">
+            <marc:subfield code="a">PRO Singer, Leah (donor) (copies 1 &amp; 2)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="4">
+            <marc:subfield code="a">PRO Singer, Godfrey F. (honoree) (copies 1 &amp; 2)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Behn, Aphra</marc:subfield>
+            <marc:subfield code="d">1640-1689</marc:subfield>
+            <marc:subfield code="4">Author (text)</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Brown, D.</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Tonson, Jacob</marc:subfield>
+            <marc:subfield code="d">1656?-1736</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Tooke, B.</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Strahan, G.</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Ballard, S.</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Mears, W. (William)</marc:subfield>
+            <marc:subfield code="d">active 1713-1758</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Clay, Francis</marc:subfield>
+            <marc:subfield code="d">-1738</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Condon, Thomas</marc:subfield>
+            <marc:subfield code="4">Dedicated to</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Kingdon, Lemuel</marc:subfield>
+            <marc:subfield code="4">Dedicated to</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Robert Spencer, 2nd Earl of Sunderland</marc:subfield>
+            <marc:subfield code="d">1640-1702</marc:subfield>
+            <marc:subfield code="4">Dedicated to</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Anne Amson</marc:subfield>
+            <marc:subfield code="4">Inscribed by</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+            <marc:subfield code="5">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Early Novels</marc:subfield>
+            <marc:subfield code="5">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Amours of Philander and Silvia.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="752" ind1=" " ind2=" ">
+            <marc:subfield code="a">England</marc:subfield>
+            <marc:subfield code="d">London.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="950" ind1=" " ind2=" ">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="e">\\Singer-\Menden-\hall\</marc:subfield>
+            <marc:subfield code="v">v.1-3</marc:subfield>
+            <marc:subfield code="i">06/28/89 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="955" ind1=" " ind2=" ">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="c">1:v.1</marc:subfield>
+            <marc:subfield code="q">725141-725143</marc:subfield>
+            <marc:subfield code="q">g. Mr. and Mrs. Jacob Singer</marc:subfield>
+            <marc:subfield code="i">06/28/89 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="955" ind1=" " ind2=" ">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="c">1:v.2</marc:subfield>
+            <marc:subfield code="q">725141-725143</marc:subfield>
+            <marc:subfield code="q">g. Mr. and Mrs. Jacob Singer</marc:subfield>
+            <marc:subfield code="i">06/28/89 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="955" ind1=" " ind2=" ">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="c">1:v.3</marc:subfield>
+            <marc:subfield code="q">725141-725143</marc:subfield>
+            <marc:subfield code="q">g. Mr. and Mrs. Jacob Singer</marc:subfield>
+            <marc:subfield code="i">06/28/89 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="955" ind1=" " ind2=" ">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="c">2:v.3</marc:subfield>
+            <marc:subfield code="q">725470</marc:subfield>
+            <marc:subfield code="q">g. Mr. and Mrs. Jacob Singer</marc:subfield>
+            <marc:subfield code="i">06/28/89 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="989" ind1=" " ind2=" ">
+            <marc:subfield code="2">Love-letter</marc:subfield>
+            <marc:subfield code="7">Love-letter</marc:subfield>
+            <marc:subfield code="2">Love</marc:subfield>
+            <marc:subfield code="2">Letter</marc:subfield>
+            <marc:subfield code="7">Letter</marc:subfield>
+            <marc:subfield code="2">Nobleman</marc:subfield>
+            <marc:subfield code="2">Sister</marc:subfield>
+            <marc:subfield code="2">History</marc:subfield>
+            <marc:subfield code="2">Adventure</marc:subfield>
+            <marc:subfield code="2">Part</marc:subfield>
+            <marc:subfield code="3">Three</marc:subfield>
+            <marc:subfield code="3">Second</marc:subfield>
+            <marc:subfield code="3">Mix'd</marc:subfield>
+            <marc:subfield code="3">Mixed</marc:subfield>
+            <marc:subfield code="6">Mix</marc:subfield>
+            <marc:subfield code="2">Amour</marc:subfield>
+            <marc:subfield code="5">Philander</marc:subfield>
+            <marc:subfield code="5">Sylvia</marc:subfield>
+            <marc:subfield code="6">Be</marc:subfield>
+            <marc:subfield code="3">Third</marc:subfield>
+            <marc:subfield code="3">Last</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">NB</marc:subfield>
+            <marc:subfield code="b">7/17/15</marc:subfield>
+            <marc:subfield code="c">Swarthmore College</marc:subfield>
+            <marc:subfield code="d">YDS</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>
