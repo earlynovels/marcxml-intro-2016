@@ -22,24 +22,25 @@ These are a few links that point to resources regarding MARC files and editing X
 - [OpenRefine](http://openrefine.org/) 
 - [MarcEdit](http://marcedit.reeset.net/downloads)
 - [Online XML Validator](http://xmlvalidation.com/)
-- *_For Macs:_* [TextWrangler](http://www.barebones.com/products/textwrangler/)
-- *_For PCs:_* [Notepad++](https://notepad-plus-plus.org/download/v6.9.2.html)
+- **_For Macs:_** [TextWrangler](http://www.barebones.com/products/textwrangler/)
+- **_For PCs:_** [Notepad++](https://notepad-plus-plus.org/download/v6.9.2.html)
 
 ### Tidying up XML in the text editor
 
 #### TextWrangler
 
-not many steps but potentially a little scary
+(not many steps but potentially a little scary)
 
-1. open a new file in TextWrangler
-2. code & paste the following code 
 ``` 
 #!/bin/sh
 XMLLINT_INDENT=$'\t' xmllint --format --encode utf-8 -
 ```
+
+1. open a new file in TextWrangler
+2. cut & paste the code snippet above
 3. save to file named `TidyXML.sh`
 4. move this file to the following folder: `~/Library/Application Support/TextWrangler/Text Filters/`
-*_Note:_* If the `Library` folder does not appear under `/Users/[username]/` in Finder, simply hold down the `option` key
+**_Note:_** If the `Library` folder does not appear under `/Users/[username]/` in Finder, simply hold down the `option` key
 5. restart TextWrangler, now under `Text > Text Filters` you should see an option for `TidyXML`
 
 #### Notepad++
